@@ -16,8 +16,8 @@ $$
 
 L’intégrale suivante vaut :
 
-$$
+\[
 \int_0^1 x^2\,dx = \left[\frac{x^3}{3}\right]_0^1 = \frac{1}{3}
-$$
+\]
 
 C’est le début de notre blog !
