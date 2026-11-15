@@ -1,6 +1,6 @@
 
 ---
-layout: post
+layout: Publication
 title: "Une première formule mathématique"
 date: 2026-11-15
 ---
